@@ -9,7 +9,11 @@ Operating Systems Lab Assignments
 This repository contains the lab assignments for the Operating Systems course at Delhi Technological University, for the Even Semester (2023-24) of Batch CSE-A1, G-2.
 
 Student Name: Aditya Pratap Singh
-Section and Batch: CSE A1-G2
+
+
+Section and Batch: CSE A1-G2 (Even Semester 2023-2024)
+
+
 Subject: Operating Systems (Prof. Rajni Jindal)
 
 Contents
